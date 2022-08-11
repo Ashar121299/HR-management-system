@@ -1,0 +1,35 @@
+
+.div1 {
+    width:150pt;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: lightgreen;
+    align-self: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+    
+
+    
+}
+.div2 {
+    width:300px; 
+   background-color: lightgreen;
+    text-align:center;
+    font-weight: bold;
+    display:flexbox;
+    align-self: center;
+    text-align: center;
+    
+
+}
+.div2 img{ 
+    
+   background: lightgreen;
+    width: 140px;
+    
+    align-self: center;
+    
+    
+
+}
